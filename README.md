@@ -1,4 +1,4 @@
 # mlPathProjection
-<img src="https://previews.dropbox.com/p/thumb/AB853iifoNLRF_BP8_bQt3cH-GllKAxYtJBXvpw7x-EzIMEjItmrvaxknux8SWqIj1r8M47txl3VGCDDWlpWc8duJp05aRdTaNvv-QMs9wX5FYmlT_0D1bXtrgFSEgo7ot5PTkZRMyT6usKLEj2j_YcSfS7n5WfGUvG5qk3jbf6syV1scx0cpLsQKDsk3sunTXYO5cgqhhLuCgj8OzUS7cN35jrH9IjskoV3PyKt9mQaBlocgQXYG2RR_FlbaZ15gZKgMZFi6mWFtdMdomgnTDvdYPIXKLzA0aJUEjsWYo6RFINjIsuMmqe1TrGj2tg_KmkBCTH-TsEdnYACZrgrpyUMdvIBBgtjamTwyj8Ma6gXfN68eUw7sgO8HLGn5rwd5i0/p.gif" alt="My Project GIF" width="500" height="600">
+<img src="./giphy.gif" alt="My Project GIF" width="500" height="600">
 
 
